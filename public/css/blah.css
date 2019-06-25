@@ -1,0 +1,16 @@
+.middle{
+	background-color: lightblue;
+	color: darkblue;
+	margin-left: 100px;
+}
+.shadow{
+	box-shadow: 1px 5px 18px lightblue;
+}
+.inputoutput{
+	padding: 20px;
+}
+
+
+.detailtable{
+	width:100%;
+}
